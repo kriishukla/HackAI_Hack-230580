@@ -3,13 +3,10 @@ name = "Temperature_Alert_Agent"
 version = "0.1.0"
 description = ""
 authors = [
-    "Abhay Mathur <a21.mathur21@gmail.com>",
-    "Devansh Rathor <kingdevansh123@gmail.com>",
-    "Shreya Shah <shreyashah100803@gmail.com>",
-    "Shruti Shah <shrutiashah22@gmail.com>",
+    "Krishna Shukla <kriishukla@gmail.com>",
 ]
 readme = "README.md"
-repository = "https://github.com/abhaymathur21/Temperature_Alert_Agent"
+repository = "https://github.com/kriishukla/Temperature-Alert-and-Weather-Forecast-Agent"
 homepage = ""
 
 [tool.poetry.dependencies]
