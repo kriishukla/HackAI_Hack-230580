@@ -97,9 +97,4 @@ OpenWeatherMap API Key: Obtain an API key from OpenWeatherMap and set it in the 
 
 
 
-### Contact
-If you have any questions or need assistance with this project, please contact:
-Krishna:kriishukla@gmail.com
-Anish:Shuklaneesh@gmaail.com
-
 Feel free to reach out with any feedback or suggestions.
